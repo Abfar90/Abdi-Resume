@@ -25,6 +25,16 @@
 	opacity: 1;
 }
 
+#home .navigation #nav-home,
+#CV .navigation #nav-cv,
+#About .navigation #nav-about,
+#Contact .navigation #nav-contact
+{
+	opacity: 1;
+	text-decoration: underline solid;
+	text-decoration-color: blanchedalmond;
+}
+
 .Intro {
 	margin: 0;
 	background-color: transparent;
